@@ -1,6 +1,6 @@
 # Introduction
 
-Take me to the [Fraud Detection Code and Jupyter Notebook](https://github.com/AMoazeni/Machine-Learning-Fraud-Detection/blob/master/Jupyter%20Notebook/Fraud%20Detection.ipynb) written in Python, using the '[MiniSOM](https://github.com/JustGlowing/minisom)' library!
+Take me to the Fraud Detection [Code and Jupyter Notebook](https://github.com/AMoazeni/Machine-Learning-Fraud-Detection/blob/master/Jupyter%20Notebook/Fraud%20Detection.ipynb) written in Python, using the '[MiniSOM](https://github.com/JustGlowing/minisom)' library!
 
 
 <br></br>
