@@ -1,6 +1,6 @@
 # Introduction
 
-Take me to the [Fraud Detection Code](https://github.com/AMoazeni/Machine-Learning-Fraud-Detection/blob/master/Code/Fraud%20Detection.py) for Fraud Detection!
+Take me to the [Fraud Detection Code](https://github.com/AMoazeni/Machine-Learning-Fraud-Detection/blob/master/Code/Fraud%20Detection.py) written in Python using the 'MiniSOM' library!
 
 
 <br></br>
@@ -107,4 +107,6 @@ Check out [AMoazeni's Github](https://github.com/AMoazeni/) for more Machine Lea
 
 <br></br>
 <div align="center"><img src="https://raw.githubusercontent.com/AMoazeni/Word-Count/master/Jupyter%20Notebook/Images/06%20-%20Cat%20Typing.gif" width=40% alt="Cat-Typing"></div>
+
+
 
