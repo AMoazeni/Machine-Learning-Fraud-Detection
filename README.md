@@ -1,18 +1,12 @@
-<br></br>
-<div align="center"><img src="https://raw.githubusercontent.com/AMoazeni/Machine-Learning-Fraud-Detection/master/Jupyter%20Notebook/Images/01%20-%20.png" width=50% alt=""></div>
-
-
 # Introduction
 
-<br></br>
-Take me to the [Code and Jupyter Notebook]() for Fraud Detection!
+Take me to the [Fraud Detection Code](https://github.com/AMoazeni/Machine-Learning-Fraud-Detection/blob/master/Code/Fraud%20Detection.py) for Fraud Detection!
 
 
 <br></br>
 This article explores a method that detects fraudulent credit card activity in a bank dataset. We are going to use an Unsupervised Machine Learning technique called Self Organizing Map (SOM) to achieve this. The SOM generates a fraud probability for each Credit Card activity, which can be forwarded to the fraud investigation department. The fraud probability table can also be used to alert the customer instantly through text or email if they have previously set up Multi Factor Authentication (MFA).
 
 
-<br></br>
 <div align="center"><img src="https://raw.githubusercontent.com/AMoazeni/Machine-Learning-Fraud-Detection/master/Jupyter%20Notebook/Images/01%20-%20Credit%20Card.gif" width=50% alt="Credit-Card"></div>
 
 
@@ -21,7 +15,6 @@ This article explores a method that detects fraudulent credit card activity in a
 
 # Self Organizing Map (SOM)
 
-<br></br>
 Self Organizing Maps are used to reveal correlations that are not easily identifiable, by decreasing dimensionality in the dataset (condense data from several columns into a few columns). It was popularized by Teuvo Kohonen who is a Finnish researcher. Unlike supervised learning, unsupervised SOMs don't have activation functions, labeled datasets, and don't require back propagation. They find patterns in your data and group similar data points together.
 
 
@@ -75,7 +68,6 @@ Repeat Steps 1 to 5 and update the weights after each observation (Reinforcement
 
 # Results
 
-<br></br>
 Run the first part of the code to generate the following Self Organizing Map result. Assuming that most applications are truthful (majority dark cells), the outliers must be fraudulent (white cells). Plug in the coordinates of the white cells into the 'fraud' variable. The results will be saved into the Data folder called 'Fraud_Results.csv'.
 
 
@@ -96,7 +88,7 @@ Run the first part of the code to generate the following Self Organizing Map res
 1. Install [Anaconda](https://www.anaconda.com/download/).
 2. Download this repository and navigate to it.
 3. Include the [minisom library](https://github.com/JustGlowing/minisom) in your working directory.
-4. Click 'Run' to step through the [Fraud Detection Jupyter Notebook]() code.
+4. Click 'Run' to step through the [Fraud Detection Jupyter Notebook](https://github.com/AMoazeni/Machine-Learning-Fraud-Detection/blob/master/Jupyter%20Notebook/Fraud%20Detection.ipynb) code.
 
 
 <br></br>
@@ -115,6 +107,4 @@ Check out [AMoazeni's Github](https://github.com/AMoazeni/) for more Machine Lea
 
 <br></br>
 <div align="center"><img src="https://raw.githubusercontent.com/AMoazeni/Word-Count/master/Jupyter%20Notebook/Images/06%20-%20Cat%20Typing.gif" width=40% alt="Cat-Typing"></div>
-
-
 
