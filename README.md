@@ -103,7 +103,7 @@ $ cd Machine-Learning-Fraud-Detection
 
 # Happy Coding!
 
-Check out [AMoazeni's Github](https://github.com/AMoazeni/) for more Machine Learning, and Robotics repositories.
+Check out [AMoazeni's Github](https://github.com/AMoazeni/) for more Machine Learning and Robotics repositories.
 
 <br></br>
 <div align="center"><img src="https://raw.githubusercontent.com/AMoazeni/Word-Count/master/Jupyter%20Notebook/Images/06%20-%20Cat%20Typing.gif" width=40% alt="Cat-Typing"></div>
