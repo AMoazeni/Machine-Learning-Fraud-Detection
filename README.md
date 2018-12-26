@@ -1,10 +1,10 @@
 # Introduction
 
-Take me to the [Fraud Detection Code](https://github.com/AMoazeni/Machine-Learning-Fraud-Detection/blob/master/Code/Fraud%20Detection.py) written in Python using the 'MiniSOM' library!
+Take me to the [Fraud Detection Code and Jupyter Notebook](https://github.com/AMoazeni/Machine-Learning-Fraud-Detection/blob/master/Jupyter%20Notebook/Fraud%20Detection.ipynb) written in Python, using the '[MiniSOM](https://github.com/JustGlowing/minisom)' library!
 
 
 <br></br>
-This article explores a method that detects fraudulent credit card activity in a bank dataset. We are going to use an Unsupervised Machine Learning technique called Self Organizing Map (SOM) to achieve this. The SOM generates a fraud probability for each Credit Card activity, which can be forwarded to the fraud investigation department. The fraud probability table can also be used to alert the customer instantly through text or email if they have previously set up Multi Factor Authentication (MFA).
+This article explores the detection fraudulent credit card activity in a bank dataset. We are going to use an Unsupervised Machine Learning technique called Self Organizing Map (SOM) to achieve this. The SOM groups similar Credit Card activity together. We're assuming that the outlier group (different from the majority of other groups) is fraudulent. The fraudulent group is the tabulated and can be forwarded to the fraud investigation department. This table can also be used to alert the customer instantly through text or email if they have set up Multi Factor Authentication (MFA).
 
 
 <div align="center"><img src="https://raw.githubusercontent.com/AMoazeni/Machine-Learning-Fraud-Detection/master/Jupyter%20Notebook/Images/01%20-%20Credit%20Card.gif" width=50% alt="Credit-Card"></div>
@@ -15,7 +15,7 @@ This article explores a method that detects fraudulent credit card activity in a
 
 # Self Organizing Map (SOM)
 
-Self Organizing Maps are used to reveal correlations that are not easily identifiable, by decreasing dimensionality in the dataset (condense data from several columns into a few columns). It was popularized by Teuvo Kohonen who is a Finnish researcher. Unlike supervised learning, unsupervised SOMs don't have activation functions, labeled datasets, and don't require back propagation. They find patterns in your data and group similar data points together.
+Self Organizing Maps are used to reveal correlations that are not easily identifiable, by decreasing dimensionality in the dataset (condense data from several columns into a few columns). It was popularized by [Teuvo Kohonen](https://github.com/AMoazeni/Machine-Learning-Fraud-Detection/blob/master/Research%20Papers/01%20-%20Kohonen%20SOM.pdf) who is a Finnish researcher. Unlike supervised learning, unsupervised SOMs don't have activation functions, labeled datasets, and don't require back propagation. They find patterns in your data and group similar data points together.
 
 
 <br></br>
